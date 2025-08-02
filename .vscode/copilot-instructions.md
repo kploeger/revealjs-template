@@ -1,0 +1,5 @@
+- This is a reveal.js v4 presentation.
+- `index.html` is automatically generated.
+- You can create slides in the `slides` folder using markdown or HTML.
+- `slides.config.js` is used to define variables for Handlebars templates. Use `{{ variableName }}` in your slides to access these variables.
+- Anything that would usually be configured in `index.html` goes to `theme/index.hbs`.

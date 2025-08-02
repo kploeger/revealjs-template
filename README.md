@@ -88,6 +88,7 @@ For further examples of how to use this, please review my [WorkerConf slides &ra
   - moving code elements
 - Video playback
 - Manim
+- Automatic publication to GitHub Pages
 
 ## Credits
 

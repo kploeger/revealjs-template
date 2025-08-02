@@ -1,0 +1,25 @@
+{
+  "name": "tidy-revealjs",
+  "version": "0.0.0",
+  "description": "A tidy template for reveal.js",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp build",
+    "dev": "gulp dev",
+    "start": "gulp serve"
+  },
+  "author": "Julie Ng <me@julie.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "del": "^6.1.1",
+    "directory-tree": "^3.5.1",
+    "gulp": "^4.0.2",
+    "gulp-hb": "^8.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "merge-stream": "^2.0.0",
+    "sass": "^1.69.5",
+    "reveal.js": "^4.6.1"
+  }
+}
